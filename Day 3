@@ -1,0 +1,21 @@
+# string is datatypes
+# ordered se quence of characters
+# order - 0123456789 - index
+# length of string 
+
+
+# within the string, we want to evavulate an expression
+# formatted string - templet
+
+name = input("name")
+age = input("age")
+print(f"hi {name},you are age years old")
+
+#string concatenatinon - join
+print("hi", + name +",welcome to our )
+
+#  string multiplier
+password = '*' * 10
+
+# Extracting a part of the sting
+# int,print,input - functions                         
