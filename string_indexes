@@ -1,0 +1,14 @@
+# print(name)
+
+
+name="abcdefg"
+# 0123456
+
+print(name [start:stop:stepover])
+name is an argument
+print is a function
+
+#homework 
+#different use cases #int 
+#boolean
+#string
